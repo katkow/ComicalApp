@@ -49,10 +49,12 @@ List of completed features and views include:
 * Connection to Firebase 
 * Splash screen
 * Home page with comics list
-* Comics banners
+* Comics banners - slide to see next available comics
 * List of chapters upon clicking a comic
 * Navigation between pages/chapters, with error messages displaying when there are no more chapters to display
-* Filters - a comic can be searched by category (Komedia, Akcja, Psychologiczny, Przygodowy, Sci fi, Fantastyka)
+* Animation for page flipping
+* Double click for zooming the image
+* Filters - a comic can be searched by category (Komedia, Akcja, Psychologiczny, Przygodowy, Sci fi, Fantastyka), with error messages when no comic can be found
 * Search - a comic can be searched by name (or part of the name)
 
 

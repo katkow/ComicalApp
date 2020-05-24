@@ -46,7 +46,7 @@ For launching the app, download the repository and open it with Android Studio (
 ## Features 
 List of completed features and views include: 
 
-* Connection to Firebase 
+* Connection to Firebase - database holding comics data connected to the project
 * Splash screen
 * Home page with comics list
 * Comics banners - slide to see next available comics
